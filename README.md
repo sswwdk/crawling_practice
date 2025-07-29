@@ -5,4 +5,4 @@ SBS RSS피드에서 xml파서를 활용해서 뉴스 제목, 내용을 수집하
 # 실습 2. 멀티미디어 데이터 수집하기
 CGV 홈페이지에서 영화 랭킹와 포스터 이미지를 저장했습니다.
 
-# 실습 3. 토트넘 공식 홈페이지에서 데이터 수집하기
+# 실습 3. 토트넘 공식 홈페이지에서 데이터 수집하기(#https://github.com/sswwdk/crawling_practice/blob/main/%EC%8B%A4%EC%8A%B53.ipynb)
