@@ -2,6 +2,8 @@
 # [실습 1. 뉴스 데이터 수집하기](https://github.com/sswwdk/crawling_practice/blob/main/%EC%8B%A4%EC%8A%B51_%EB%89%B4%EC%8A%A4%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0.ipynb)
 SBS RSS피드에서 xml파서를 활용해서 뉴스 제목, 내용을 수집하는 실습을 했습니다.<br>
 결과는 news.csv파일에 저장했습니다.<br>
+연합뉴스는 연습용으로 실습했습니다.<br>
+결과는 news2.csv파일에 저장했습니다.<br>
 <br>
 
 # [실습 2. 멀티미디어 데이터 수집하기](https://github.com/sswwdk/crawling_practice/blob/main/%EC%8B%A4%EC%8A%B52_%EB%A9%80%ED%8B%B0%EB%AF%B8%EB%94%94%EC%96%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0.ipynb)
