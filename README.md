@@ -15,7 +15,8 @@ CGV 홈페이지에서 영화 랭킹와 포스터 이미지를 저장했습니�
 # [실습 3. 토트넘 공식 홈페이지에서 데이터 수집하기](https://github.com/sswwdk/crawling_practice/blob/main/%EC%8B%A4%EC%8A%B53.ipynb)
 토트넘 공식 홈페이지에서 선수 등번호, 이름, 국적, 이미지를 가져왔습니다.<br> 
 선수 이미지는 **player_images**에 저장하고, 선수 등번호, 이름, 국적은 **players.csv**에 저장했습니다.<br>
-players.csv는 sqlite로 tot_player.db에 저장하였습니다.
+players.csv는 sqlite로 tot_player.db에 저장하였습니다.<br>
+sqlite에 저장된 데이터를 MYSQL DB에 저장했습니다.<br>
 <br>
 <p align="center">
 <img width="500" height="559" alt="7_Heung-Min Son" src="https://github.com/user-attachments/assets/35ec84cd-3640-4e8c-906b-2c8299d774cb" />
